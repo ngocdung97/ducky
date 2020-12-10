@@ -1,0 +1,57 @@
+{
+    "data" :
+    {
+        "SocialLink" : {
+            "facebook" : "https://www.facebook.com/100008552503542/",        
+            "instagram" : "https://www.instagram.com/_ducky97/?fbclid=IwAR1QWP9vPs27MESwQ2edtEjDU65yXdNnMoL0LwNckdvkf1fTgV3DEh4x298",
+            "github" : "https://www.github.com/ngocdung97",
+            "tel" : "tel:+84913183883"
+        },
+        "Information" : {
+            "fullname" : "Bùi Ngọc Dũng",
+            "phone" : "(+84) 913183883",
+            "email" : "buingocdung106@gmail.com",
+            "website" : "buingocdung.tech",
+            "address" : "C3/16 Phạm Hùng, Bình Hưng, Bình Chánh, TPHCM"
+        },
+        "WorkExperience" : [{
+            "position" : "animate-box timeline-unverted",
+            "title": "Developer",
+            "company": "TKSolution | 07/2019 - 09/2020",
+            "detail": "Nhân viên phát triển phần mềm mảng logistics ( WMS, TMS, ONP )"
+        },
+        {
+            "position" : "timeline-inverted animate-box",
+            "title": "Phần mềm quản lí kho WMS trên WPF - Luận văn tốt nghiệp",
+            "company": "Trường đại học công nghệ sài gòn | 05/2020 - 07/2020",
+            "detail": "Thiết kế giao diện, Quản lý hàng hóa, Quản lý hàng tồn kho, Report, Hoàn thiện chức năng của chương trình"
+        },
+        {
+            "position" : "animate-box timeline-unverted",
+            "title": "Nhân Viên",
+            "company": "Công ty tin học tiên tiến Á Châu | 07/2017 - 09/2017",
+            "detail": "Chuyên viên phân tích dữ liệu chi nhánh"
+        }
+        ],
+        "Education" : [{
+            "position" : "timeline-inverted animate-box",
+            "title": "Sinh Viên",
+            "company": "Trường đại học công nghệ sài gòn | 10/2015",
+            "detail": "Bắt đầu học tập tại Trường đại học công nghệ sài gòn chuyên ngành Công nghệ thông tin"
+        },
+        {
+            "position" : "animate-box timeline-unverted",
+            "title": "Sinh Viên",
+            "company": "Trường đại học công nghệ sài gòn | 10/2020",
+            "detail": "Tốt nghiệp"
+        },
+        {
+            "position" : "timeline-inverted animate-box",
+            "title": "Thực Tập Sinh",
+            "company": "Công ty Viet Japan Partner | 05/2018 - 06/2018",
+            "detail": "Hoàn thành môn thực tập chuyên ngành"
+        }
+        ]
+    } 
+}
+
