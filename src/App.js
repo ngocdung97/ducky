@@ -6,6 +6,7 @@ import AboutMe from "./components/AboutMe";
 import Resume from "./components/Resume";
 import Services from "./components/Services";
 import Skill from "./components/Skill";
+import SaveFile from "./components/SaveFile";
 import Footer from "./components/Footer";
 
 function App() {
@@ -31,10 +32,10 @@ function App() {
       <Resume></Resume>
       <Services></Services>
       <Skill></Skill>
+      <SaveFile></SaveFile>
       <Footer></Footer>
     </div>
   );
 }
 
 export default App;
- 
