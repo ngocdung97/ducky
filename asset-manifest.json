@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ducky/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/ducky/static/js/main.bffae81a.chunk.js",
-    "main.js.map": "/ducky/static/js/main.bffae81a.chunk.js.map",
+    "main.js": "/ducky/static/js/main.fac8cdc9.chunk.js",
+    "main.js.map": "/ducky/static/js/main.fac8cdc9.chunk.js.map",
     "runtime-main.js": "/ducky/static/js/runtime-main.eb1d50e2.js",
     "runtime-main.js.map": "/ducky/static/js/runtime-main.eb1d50e2.js.map",
     "static/js/2.3d02772f.chunk.js": "/ducky/static/js/2.3d02772f.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.eb1d50e2.js",
     "static/js/2.3d02772f.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.bffae81a.chunk.js"
+    "static/js/main.fac8cdc9.chunk.js"
   ]
 }
