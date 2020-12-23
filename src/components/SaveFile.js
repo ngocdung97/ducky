@@ -45,7 +45,7 @@ export default class SaveFile extends Component {
                     </a>
                   </li>
                   <li className="text-success">| My Other Web CV
-                    <a href="http://buingocdung.ga/">
+                    <a href="http://buingocdung.tech/">
                       <i className="icon-earth" />
                     </a>
                   </li>
