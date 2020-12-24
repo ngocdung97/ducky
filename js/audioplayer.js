@@ -45,7 +45,7 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
-      "https://data.chiasenhac.com/down2/2142/4/2141072-7098b790/flac/Chung%20Ta%20Cua%20Hien%20Tai%20-%20Son%20Tung%20M-TP.flac",
+      "https://data.chiasenhac.com/down2/2142/4/2141072-7098b790/320/Chung%20Ta%20Cua%20Hien%20Tai%20-%20Son%20Tung%20M-TP.mp3",
       "https://data2.chiasenhac.com/stream2/1622/3/1621445-8f90a551/128/We%20Don_t%20Talk%20Anymore%20-%20Charlie%20Puth_%20Se.mp3",
       "https://aredir.nixcdn.com/NhacCuaTui924/Nevada-Vicetone-4494556.mp3?st=bs3Qx2GDQyikF-Id0a5FDw&e=1608802325",
       "https://data00.chiasenhac.com/downloads/1848/3/1847827-99050a2c/128/All%20Falls%20Down%20K-391%20Remix_%20-%20Alan%20Walke.mp3",
