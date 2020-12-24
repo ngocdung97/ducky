@@ -41,19 +41,17 @@ export default class AboutMe extends Component {
                 <p>
                   Hi ! Vẫn là Dũng đây. lần này cũng là 1 trang web nhưng mình
                   có thay đổi về framework reactjs. 1 website đơn giản để giới
-                  thiệu bản thân. Đọc tiếp nào !!!!!
+                  thiệu bản thân nhé !!!!!
                 </p>
                 <p>
-                  Năm nay mình đã gần 25 nồi bánh chưng rồi nhưng chưa bao giờ
-                  ăn hại như bây giờ !!! kakaka dỡn thôi . Mình quê ở Thanh Hóa
-                  nhưng sinh ra và lớn lên ở Kon Tum và hiện tại đang sinh hoạt
-                  và làm việc tại TPHCM. Mình học trường ĐH Công Nghệ Sài Gòn
-                  (STU) đọc là sờ tu nha ! Mình đã tốt nghiệp năm 2020 hơi muộn
-                  hơn 1 năm do mình ăn chơi bỏ quên tuổi trẻ nên ra muộn nha.
+                  Năm nay mình đã gần 25 nồi bánh chưng rồi !!! Mình quê ở Thanh Hóa
+                  nhưng sinh ra và lớn lên ở Kon Tum và hiện tại đang làm việc tại TPHCM. 
+                  Mình học trường ĐH Công Nghệ Sài Gòn (STU) ! Mình đã tốt nghiệp năm 2020
+                  hơi muộn hơn 1 năm do mình ăn chơi quá nên ra muộn nha.
                   Mình đã có hơn 1 năm kinh nghiệm về Fullstack Developer mảng
                   logistics. À quên ! có hơn 7 tháng thôi à còn lại mình đi thực
                   tập hết rồi kakaka. Mình biết khá nhiều ngôn ngữ như : SQL,
-                  C#, ASP.NET, Reactjs, HTML,... nói dảy thôi chớ làm cùi lắm
+                  C#, ASP.NET, Reactjs, HTML,... nói dảy thôi chớ còn cùi mía lắm
                   hahaha
                 </p>
                 <p />

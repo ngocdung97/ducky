@@ -53,6 +53,8 @@ $(function () {
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
+    playLoopButton = $("#play-loop"),
+    a = playLoopButton.find("i"),
     currIndex = -1;
 
   function playPause() {
@@ -170,6 +172,16 @@ $(function () {
     }, 100);
   }
 
+  function loopTrack(loopTrack) {
+    audio.loop = !loopTrack;
+    console.log(audio.play);
+    if (audio.loop === true) {
+      a.attr("style", "background-color:gray");
+    } else {
+      a.attr("style", "background-color:none");
+    }
+  }
+
   function selectTrack(flag) {
     if (flag == 0 || flag == 1) ++currIndex;
     else --currIndex;
@@ -224,7 +236,7 @@ $(function () {
 
     selectTrack(0);
 
-    audio.loop = true;
+    audio.loop = false;
 
     playPauseButton.on("click", playPause);
 
@@ -243,6 +255,9 @@ $(function () {
     });
     playNextTrackButton.on("click", function () {
       selectTrack(1);
+    });
+    playLoopButton.on("click", function () {
+      loopTrack(audio.loop);
     });
   }
 

@@ -64,6 +64,11 @@ export default class Player_Music extends Component {
                   <i className="icon-next2" />
                 </div>
               </div>
+              <div className="control">
+                <div className="button" id="play-loop">
+                  <i className="icon-loop" />
+                </div>
+              </div>
             </div>
           </div>
         </div>
